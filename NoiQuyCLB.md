@@ -1,4 +1,4 @@
-
+![rule](https://github.com/pctcreative/Rule/blob/master/rule.png)
 # Nội quy câu lạc bộ PCT Creative Club
 
 ## Điều 1: Về chức vụ
