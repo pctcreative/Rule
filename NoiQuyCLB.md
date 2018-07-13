@@ -18,7 +18,7 @@
 ## Điều 3: Về hoạt động và dự án
   ##### 1. Lĩnh vực liên quan tới khoa học (có phần cứng hoặc các mô hình hoạt động), công nghệ thông tin (Bao gồm phần mềm, phần cứng, thuật toán) hay vật lí (không giới hạn).
   ##### 2. Những hoạt động, dự án mang tính chiến lược sử dụng quỹ sẽ được ban quản trị nhóm đề xuất theo cơ chế trưng cầu dân ý như trên.
-  ##### 3. Không xung đột chính trị về chính trị, không sử dụng từ ngữ xúc phạm người khác hay đả kích sở thích của cá nhân hay một nhóm thành viên trong câu lạc bộ.
+  ##### 3. Không xung đột về chính trị, không sử dụng từ ngữ xúc phạm người khác hay đả kích sở thích của cá nhân hay một nhóm thành viên trong câu lạc bộ.
 ## Điều 4: Về sử dụng trụ sở CLB
   ##### 1. Trong CLB sẽ có những thành viên, là những người sở hữu chìa khóa để có khả năng vào trụ sở để chủ trì, thực hiện hay ủy quyền một dự án cá nhân. Mọi sự thiệt hại liên quan tới cơ sở vật chất ngân hàng (nhân viên ngân hàng thuê 1 căn phòng cùng tòa nhà để chứa xe máy) và trụ sở CLB đều thuộc trách nhiệm của thành viên đang trực tại thời điểm thiệt hại xảy ra, CLB không chịu trách nhiệm).
   ##### 2. Mỗi dự án thực hiện tại trụ sở phải có mặt ít nhất một thành viên trực hoặc được các quản trị viên ủy quyền sử dụng.
