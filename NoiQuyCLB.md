@@ -32,7 +32,7 @@
   ##### 5. Thủ quỹ sẽ chịu trách nhiệm nếu việc báo giá không chính xác hay sự sai số trong quá trình thực thi (chịu trách nhiệm ở đây là chịu thiệt hại về tài chính lên bản thân). Nếu muốn tăng thêm số vốn đầu tư vào dự án hay hoạt động, thủ quỹ sẽ phải tổ chức trưng cầu dân ý như khi bắt đầu hoạt động.
   ##### 6. Mỗi thành viên (trừ các mentor) sẽ nộp chi phí hoạt động là 10k/tháng.
   ##### 7. Thành viên có thể cống hiến hiện vật thay cho việc nộp quỹ, việc hiện vật được chấp nhận hay không và được định giá bao nhiêu để trừ vào tiền nộp quỹ đều được thủ quỹ quyết định.
-## Điều 6: Về hình phạt không nộp đầy đủ tiền quỹ (có thể nộp bằng hiện vật nhưng phải liên lạc thủ quỹ trước)
+## Điều 6: Về hình phạt không nộp đầy đủ tiền quỹ
 ##### 1.	Nếu chưa nộp sau 3 ngày thủ quỹ thông báo thu quỹ thì thành viên sẽ được nhắc nhở lần nữa bằng tin nhắn messenger nếu thành viên có tài khoản.
 ##### 2.	Nếu sau 5 ngày vẫn chưa nộp thì thành viên sẽ bị nhắc nhở qua tin nhắn messenger và phải nộp thêm 10% tiền quỹ phải nộp.
 ##### 3.	Nếu sau 7 ngày, thành viên sẽ bị đình chỉ hoạt động. Vấn đề sẽ được các cấp quản lí họp bàn và đưa ra ý kiến.
